@@ -6,6 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <h1>Calculadora IMC PHP</h1>
+    <form action="">
+        
+    </form>
 </body>
 </html>
